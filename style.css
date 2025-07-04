@@ -1,0 +1,57 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Calculator container */
+.calculator {
+    background-color: #ffffff;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+/* Labels and inputs */
+label {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+/* Buttons */
+button {
+    padding: 10px 15px;
+    margin: 10px 5px 0 0;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    background-color: #3498db;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+button:active {
+    background-color: #1f6391;
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Simple Calculaor</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="calculator">
+    <label for="firstno">First Number:</label>
+    <input type="text" id="firstno">
+
+    <label for="secondno">Second Number:</label>
+    <input type="text" id="secondno">
+
+    <label for="result">Result:</label>
+    <input type="text" id="result" readonly>
+
+    <div style="margin-top: 15px;">
+        <button onclick="sum()">Sum</button>
+        <button onclick="sub()">Sub</button>
+        <button onclick="mul()">Mul</button>
+        <button onclick="div()">Div</button>
+    </div>
+</div>
+
+<script src="calculator.js"></script>
+</body>
+</html>
