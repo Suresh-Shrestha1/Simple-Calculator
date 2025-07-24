@@ -67,11 +67,13 @@ This project is for educational purposes only.
 
 ## 📬 Contributing
 Contributions are welcome! Please submit a pull request with your changes.
+
 ---
 
 ## 🙌 Credits
 
 Made with ❤️ using HTML, CSS, and JavaScript.
+
 ---
 
 ## Authors
