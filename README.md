@@ -52,6 +52,22 @@ A **simple, stylish web calculator** built with HTML, CSS, and JavaScript. Perfo
 
 ---
 
+
+## 📸 Screenshot
+
+> ![Simple Calculator View](/calculator-screenshot.png)
+
+---
+
+## 📝 License
+
+This project is for educational purposes only.
+
+---
+
+## 🙌 Credits
+
+Made with ❤️ using HTML, CSS, and JavaScript.
 ## Installation
 ```bash
 # Clone the repository
