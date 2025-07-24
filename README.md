@@ -65,30 +65,13 @@ This project is for educational purposes only.
 
 ---
 
+## 📬 Contributing
+Contributions are welcome! Please submit a pull request with your changes.
+
 ## 🙌 Credits
 
 Made with ❤️ using HTML, CSS, and JavaScript.
-## Installation
-```bash
-# Clone the repository
-git clone https://github.com/Suresh-Shrestha1/Simple-Calculaor.git
 
-# Navigate to the project directory
-cd Simple-Calculaor
-```
-
-## Usage
-```javascript
-// Example usage (if applicable)
-const calculator = new Calculator();
-calculator.add(5, 3);  // Returns 8
-```
-
-## Contributing
-Contributions are welcome! Please submit a pull request with your changes.
-
-## License
-MIT License
 
 ## Authors
 - [Suresh-Shrestha](https://github.com/Suresh-Shrestha1)
