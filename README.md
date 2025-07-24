@@ -12,6 +12,7 @@ A **simple, stylish web calculator** built with HTML, CSS, and JavaScript. Perfo
 - **Responsive design** for desktop and mobile
 
 ---
+
 ## 🚀 Getting Started
 
 1. **Clone or Download** this repository.
@@ -32,6 +33,24 @@ A **simple, stylish web calculator** built with HTML, CSS, and JavaScript. Perfo
 
 ---
 
+## 📁 Project Structure
+
+```
+📦 Simple calculator/
+├── index.html      # 📄 Main HTML file containing the calculator UI
+├── style.css       # 🎨 Stylesheet for the calculator
+├── calculator.js   # 📜 JavaScript logic for calculations
+└── README.md       # 📘 RProject documentation
+```
+
+---
+
+## 🛡️ Input Validation
+
+- Handles **division by zero** with an alert.
+- Only integer values are supported (uses `parseInt`).
+
+---
 
 ## Installation
 ```bash
