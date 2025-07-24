@@ -1,10 +1,17 @@
-# Simple Calculator
-A basic calculator implementation with essential arithmetic operations.
+# 🧮 Simple Calculator
 
-## Features
-- Basic arithmetic operations (+, -, *, /)
-- Clean, intuitive interface
-- [Add any additional features your calculator has]
+A **simple, stylish web calculator** built with HTML, CSS, and JavaScript. Perform basic arithmetic operations—addition, subtraction, multiplication, and division—right in your browser!
+
+---
+
+## ✨ Features
+
+- **Clean, modern UI**  
+- **Addition, Subtraction, Multiplication, Division**
+- **Division by zero protection**
+- **Responsive design** for desktop and mobile
+
+---
 
 ## Installation
 ```bash
@@ -29,4 +36,4 @@ Contributions are welcome! Please submit a pull request with your changes.
 MIT License
 
 ## Authors
-- [Suresh-Shrestha1](https://github.com/Suresh-Shrestha1)
+- [Suresh-Shrestha](https://github.com/Suresh-Shrestha1)
