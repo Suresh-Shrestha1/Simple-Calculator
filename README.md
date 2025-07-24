@@ -12,6 +12,26 @@ A **simple, stylish web calculator** built with HTML, CSS, and JavaScript. Perfo
 - **Responsive design** for desktop and mobile
 
 ---
+## 🚀 Getting Started
+
+1. **Clone or Download** this repository.
+2. Open `index.html` in your web browser.
+
+---
+
+## 🖥️ Usage
+
+1. Enter the **first number** in the input field.
+2. Enter the **second number**.
+3. Click one of the operation buttons:
+   - ➕ **Sum**
+   - ➖ **Sub**
+   - ✖️ **Mul**
+   - ➗ **Div**
+4. The **result** will appear in the result field.
+
+---
+
 
 ## Installation
 ```bash
